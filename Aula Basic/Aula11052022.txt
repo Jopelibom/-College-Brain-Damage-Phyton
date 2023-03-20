@@ -1,0 +1,18 @@
+Lista:
+      - Append
+      - Insert
+
+Pilha: 
+      - Sempre adiciona em cima
+
+Fila:
+      - Sempre adiciona em baixo
+
+Tupla: 
+      - Conjunto de valores
+      - Representado quando os valores estão entre "()"
+      - Imutável (Não altera)
+
+Sets(Conjunto):
+      - Representado quando os valores estão entre "{}"
+      - Conjunção, Intersecção, União, Complemento...;
