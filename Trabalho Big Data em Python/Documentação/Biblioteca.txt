@@ -1,0 +1,13 @@
+no CMD
+: pip install (Biblioteca)
+
+
+pip install TKinter (Biblioteca responsavel pela interface grafica do usuario)
+
+pip install TkinterDnD (biblioteca usada tem a função de arratar e soltar )
+
+pip install TkinterDnD2 (é uma extensão da TkinterDnD)
+
+pip install Pandas (Biblioteca usada para ler Datas)
+
+pip install Pathlib (fornece um método mais fácil para interagir com o sistema de arquivos, independentemente do sistema operacional)

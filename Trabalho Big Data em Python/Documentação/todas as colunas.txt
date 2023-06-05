@@ -1,0 +1,17 @@
+* Name (Nomes dos Apps)
+* App Id
+* Category (Categorias dos Apps)
+* Rating (Nota dos apps)
+* Installs (Media de instalações do app)
+* Min_Installs (Valor Minimo de instalações)
+* Max_Installs (Valor Maximo de instalações)
+* Free (Se o App é free ou não)
+* Price (Se o App é pago ou não)
+* Currency (Moeda utilizada)
+* Size (Tamanho do App)
+* Android (versão do android minima compativel)
+* Dev_Id
+* Released (Data de lançamento)
+* Updated (Data da ultima atualização)
+* Ad (Se o App tem suporte a ads)
+* Purchases (Se o App tem loja interna)
